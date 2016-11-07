@@ -44,3 +44,14 @@
 .card-link:hover{
   opacity: 0.1;
 }
+
+.card-rating {
+  font-weight: bold;
+  position:absolute;
+  top:40px;
+  right:12px;
+}
+
+.fa-star {
+  color:white;
+}
